@@ -1,0 +1,11 @@
+{
+    "facebook": {
+        "login": "hopembc@outlook.com",
+        "password": "Hugo1785"
+    },
+    "login_method": "facebook",
+    "chance_to_like": 90,
+    "amount_of_login_attempts": 15,
+    "max_wait_time_between_action_in_sec": 5,
+    "min_wait_time_between_action_in_sec": 2
+}
