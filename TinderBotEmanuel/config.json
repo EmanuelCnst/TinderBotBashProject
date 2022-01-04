@@ -1,7 +1,7 @@
 {
     "facebook": {
-        "login": "hopembc@outlook.com",
-        "password": "Hugo1785"
+        "login": "",
+        "password": ""
     },
     "login_method": "facebook",
     "chance_to_like": 90,
